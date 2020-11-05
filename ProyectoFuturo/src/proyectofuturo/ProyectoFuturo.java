@@ -2,6 +2,8 @@ package proyectofuturo;
 
 public class ProyectoFuturo {
 
+    //Héctor Cano Maestre
+    
     public static void main(String[] args) {
         
         System.out.println("Estudiante " + args[0] + " : ");
